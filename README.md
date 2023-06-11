@@ -1,6 +1,5 @@
 # Research-of-Kinematics-of-The-Stewart-Platform.
 
-# Research-of-Kinematics-of-The-Stewart-Platform.
 
 
 Project Description: Kinematics of the Stewart Platform
